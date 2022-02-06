@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my-whatsapp--1",
-    "slug": "snack-f554c959-7398-424c-816e-d2e837d5581a",
+    "name": "my-independent-app",
+    "slug": "snack-945c1ca2-7652-4181-a662-fcb128520781",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,8 +23,7 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      },
-      "package":"com.testuser.whatsappone"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
